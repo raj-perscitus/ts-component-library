@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://git-codecommit.us-east-2.amazonaws.com/v1/repos/Carynhealth-library"
+    "url": "https://github.com/raj-perscitus/ts-component-library.git"
   },
   "scripts": {
     "start": "react-scripts start",
