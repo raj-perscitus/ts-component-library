@@ -2,8 +2,8 @@
   "name": "carynhealth-react-library",
   "version": "0.1.0",
   "private": true,
-  "main": "dist/index.ts",
-  "module": "dist/index.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "files": [
     "dist",
     "README.md"
